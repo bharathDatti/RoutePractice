@@ -14,6 +14,10 @@ const Navbar = () => {
         <li className={styles.navitems}><NavLink to='/Features'>Features</NavLink></li>
         <li className={styles.navitems}><NavLink to='/Pricing'>Pricing</NavLink></li>
         <li className={styles.navitems}><NavLink to='/Services'>Services</NavLink></li>
+        <li className={styles.navitems}><NavLink to='/Services'>Services</NavLink></li>
+        <li className={styles.navitems}><NavLink to='/Services'>Services</NavLink></li>
+        <li className={styles.navitems}><NavLink to='/Services'>Services</NavLink></li>
+        <li className={styles.navitems}><NavLink to='/Services'>Services</NavLink></li>
      
       </ul>
 <button className={styles.btn}>Get Started</button>
