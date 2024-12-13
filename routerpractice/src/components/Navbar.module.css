@@ -1,0 +1,32 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    border: 2px solid red;
+    align-items: center;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aliceblue;
+}
+.NavLinks {
+    display: flex;
+    padding: 5px;
+    background-color: aliceblue;
+
+}
+
+.navitems{
+    padding: 10px;
+    background-color: aliceblue;
+
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    padding: .26rem;
+    border-radius: 10px;
+    
+}
